@@ -1,3 +1,9 @@
+> **⚠️ EDUCATIONAL USE ONLY — AUTHORIZED TESTING ONLY.**
+> This project exists for education, research, and **defense of systems you own
+> or hold explicit written authorization to assess**. Unauthorized use is
+> prohibited and may be illegal. Read [ETHICS.md](ETHICS.md) and
+> [SCOPE.md](SCOPE.md) before use. Use at your own risk; **AS IS**, no warranty.
+
 A-Secure-Warning-Platform-From-Web-Attacks-Using-Machine-Learning-Techniques
 
 Our project ‘A secure warning platform against web attacks using machine learning algorithms’ uses machine learning algorithms like Decision Tree Classifier, Random Forest, Extra Trees Classifier, Logistic Regression, Logistic Regression, XGBoost Classifier, CATBoost Classifier, K-Nearest Algorithms, and various other algorithms to detect various attacks like Phishing, Denial of Service (DoS), Cross Site Scripting (XSS). The platform uses ‘URL Dataset’ for Phishing attack detection and ‘NSL KDD Dataset’ for Denial of Service attack. The system uses feature distribution techniques to analyze the input with datasets and detect whether the input/connection is an authorized one or not. 
